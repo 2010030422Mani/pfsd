@@ -1,1 +1,1 @@
-print('maniteja')
+print("msd")
